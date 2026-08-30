@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/eef4e5b6-6f58-4bb3-9614-e39d7bd3c6e7" alt="Project Banner" width="55%">
 </p>
 
-<h1 align="center">✨ ECLIPSE – Offline Skin Lesion Classification</h1>
+<h1 align="center"> ECLIPSE – Offline Skin Lesion Classification</h1>
 
 <p align="center">
   <b>Fully Offline · Standalone MSI Installer · Parallel Swin Encoder . DenseNet-169</b>
